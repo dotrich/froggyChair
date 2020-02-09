@@ -7,6 +7,8 @@ About:
 - May not always be available to buy as stock changes.
 - Implementation based off of officeChair01.
 
+NOTE: All players on a multiplayer server must have the mod installed.
+
 Installation:
 - Make a folder in your 7 Days to Die game folder called 'Mods'.
 - Copy the 'FroggyChair' folder into the 'Mods' folder.
