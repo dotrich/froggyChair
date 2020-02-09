@@ -16,5 +16,5 @@ Installation:
 Installation is the same for singleplayer and multiplayer. For more install information visit the wiki page below:
 https://7daystodie.gamepedia.com/How_to_Install_Modlets
 
-https://i.imgur.com/4fcmJxS.jpg
-https://i.imgur.com/RH241yg.jpg
+In-game Images:
+https://imgur.com/gallery/MTbplzZ
