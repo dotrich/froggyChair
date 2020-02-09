@@ -18,3 +18,6 @@ https://7daystodie.gamepedia.com/How_to_Install_Modlets
 
 In-game Images:
 https://imgur.com/gallery/MTbplzZ
+
+Game Version Alpha 18.3 (b4)
+May work on later versions.
