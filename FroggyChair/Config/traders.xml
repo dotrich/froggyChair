@@ -1,0 +1,5 @@
+<configs>
+	<append xpath="/traders/trader_item_groups/trader_item_group[@name='decorativeBlocks']">
+		<item name="Froggy Chair" count="1" prob=".8"/>
+	</append>
+</configs>
